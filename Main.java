@@ -25,7 +25,7 @@ public class Main{
                 }else if (IMC >25 && IMC <30){
                         status = "sovrappeso/a";
                 }else{
-                        status = "obeso"/a;
+                        status = "obeso/a";
                 }
     
                 System.out.println("sei "+status);
